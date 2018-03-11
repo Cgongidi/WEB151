@@ -1,0 +1,30 @@
+//Q2 
+// console.log('Bacon');
+// console.log('Batman');
+
+//Q3 
+// console.log('JavaScript');
+// console.log(33.7);
+// console.log(true);
+// console.log(null);
+
+//Q4
+// console.log(17+3.5);
+// console.log(2018-1969);
+// console.log(65/240);
+// console.log(.2708*100);
+
+//Q5
+// console.log('Teaching the world how to code'.length);
+// console.log('Codecademy'.toUpperCase()); 
+// console.log('    Remove whitespace   '.trim()); 
+
+//Q6
+// console.log Math.floor(Math.random() * 100);
+// console.log(Math.floor(Math.random() * 100));
+// console.log(Math.ceil(43.8))
+// console.log(Number.isInteger(2017))
+
+//Q7 
+// // opening line
+// /*        */
